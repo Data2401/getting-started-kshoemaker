@@ -1,3 +1,6 @@
+## This repo belongs to Dr. Shoemaker 
+Some changes
+
 # :wave: The Basics of GitHub
 
 ## :nerd_face: Course overview and learning outcomes
